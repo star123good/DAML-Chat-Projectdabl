@@ -34,3 +34,5 @@ Pipfile
 
 
 package-lock.json
+
+env/
