@@ -1,0 +1,11 @@
+catalog:
+    name: dabl-chat
+    version: 0.2.2
+    short_description: DABL Chat
+    description: A straightforward web chat app.
+    author: Digital Asset (Switzerland) GmbH
+    url: https://github.com/digital-asset/dablchat
+    license: Apache-2.0
+    demo_url: https://w6kzs3rw2jlpks5l.projectdabl.com/
+    tags: [dabl-sample-app, application]
+    icon_file: dabl-chat.png
